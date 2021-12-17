@@ -27,7 +27,6 @@
   <img align="center" alt="deb-ghub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="deb-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="deb-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="right" alt="deb-lol" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95572299/146102073-61afe862-4400-4543-b813-d4f2c4521f83.mp4">
 </div>
  
   ##
