@@ -2,7 +2,7 @@
 
 
 - 🔭Hoje estou trabalhando com front end
-- 🌱 estou estudando o 2° periodo de Análise e desenvolvimento de sistemas-IFPB 
+- 🌱 estou estudando o 3° periodo de Análise e desenvolvimento de sistemas-IFPB 
 - 🤔 I’m looking for help with ...programação haha
 - 💬 Ask me about ... informática/ tecnologia
 - 📫 How to reach me: deboraffcruz@gmail.com / @deborahfernandes_2
