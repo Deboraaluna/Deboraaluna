@@ -2,12 +2,12 @@
 
 
 - 🔭Hoje estou trabalhando com front-end
-- 🌱 estou estudando o 4° periodo de Análise e desenvolvimento de sistemas-IFPB 
+- 🌱 estou estudando o penúltimo período de Análise e Desenvolvimento de Sistemas-IFPB 
 - 🤔 I’m looking for help with ...programação haha
-- 💬 Ask me about ... informática/ tecnologia
-- 📫 How to reach me: deboraffcruz@gmail.com / @deborahfernandes_2
-- 😄 Pronouns: ela/ele
-- ⚡ Fun fact: ...não gosto de programar em c kkk
+- 💬 Ask me about ... Empreendedorismo & UX
+- 📫 How to reach me: deboraffcruz@gmail.com
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact: ... Te amo café, te amo.
 
 
 <div align="center">
