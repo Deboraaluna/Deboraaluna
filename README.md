@@ -4,7 +4,7 @@
 - 🔭Hoje estou trabalhando com front-end
 - 🌱 estou estudando o último período de Análise e Desenvolvimento de Sistemas 
 - 🤔 I’m looking for help with ...programação haha
-- 💬 Ask me about ... Empreendedorismo & UX
+- 💬 Ask me about ... Java & UX
 - 📫 How to reach me: deboraffcruz@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ... Te amo café, te amo.
