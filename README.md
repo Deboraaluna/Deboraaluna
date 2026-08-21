@@ -2,7 +2,7 @@
 
 
 - 🔭Hoje estou trabalhando com front-end
-- 🌱 estou estudando o penúltimo período de Análise e Desenvolvimento de Sistemas-IFPB 
+- 🌱 estou estudando o último período de Análise e Desenvolvimento de Sistemas 
 - 🤔 I’m looking for help with ...programação haha
 - 💬 Ask me about ... Empreendedorismo & UX
 - 📫 How to reach me: deboraffcruz@gmail.com
